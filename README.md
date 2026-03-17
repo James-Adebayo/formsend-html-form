@@ -14,20 +14,20 @@ Send forms submission to your email using only HTML, no backend, no javascript.
 You can style the form as you see fit.
 Live demo link: https://formsend.ct.ws/demo.html
 
-##Why Formsend?
+# Why Formsend?
 → No backend required
 → Works with plain HTML
 → No javascript
 → Fast setup (under a min)
 → Free to start
 
-##Use cases
+# Use cases
 → Portfolio
 → Landing pages
 → Static sites (HTML, React, Next.js)
 → MVPs and quick builds
 
-##React 
+# React 
 ```html
 export default function Contact()\
 {
@@ -44,5 +44,5 @@ export default function Contact()\
 
 Feel free to add more examples.
 
-#License
+# License
 MIT
