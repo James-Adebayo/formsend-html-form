@@ -3,6 +3,7 @@ Send forms submission to your email using only HTML, no backend, no javascript.
 
 # Quick Start
 Copy and paste this into your HTML file. Replace your-public-key with the key provided in your FormSend dashboard.
+Here: 👉https://formsend.ct.ws
 ```html
 <form action="https://formsend.ct.ws/php/submit.php?apikey=your-public-key" method="POST">
   <input type="email" name="email" required>
