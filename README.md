@@ -11,11 +11,12 @@ Send forms submission to your email using only HTML, no backend, no javascript.
 </form>
 
 ```
+
 You can style the form as you see fit.
 Live demo link: https://formsend.ct.ws/demo.html
 
 # Why Formsend?
-→ No backend required
+→ No backend code required
 → Works with plain HTML
 → No javascript
 → Fast setup (under a min)
@@ -40,7 +41,13 @@ export default function Contact()\
   )
 }
 ```
-##Contributing
+# Advanced (Optional)
+Redirect after submission (Basic/pro users)
+```html
+<input type="hidden" name="redirect" value="https://yoursite.com/thankyou">
+```
+
+#Contributing
 
 Feel free to add more examples.
 
