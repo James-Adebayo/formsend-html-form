@@ -30,7 +30,7 @@ Live demo link: https://formsend.ct.ws/demo.html
 
 # React 
 ```html
-export default function Contact()\
+export default function Contact()
 {
   return (
       <form action="https://formsend.ct.ws/php/submit.php?apikey=your-public-key" method="POST">
@@ -41,6 +41,9 @@ export default function Contact()\
   )
 }
 ```
+# Next.js
+Same as React
+
 # Advanced (Optional)
 Redirect after submission (Basic/pro users)
 ```html
